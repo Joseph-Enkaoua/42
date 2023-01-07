@@ -1,0 +1,6 @@
+Credentials cache: API:2F32096B-E49F-4F35-B139-A0DCCA7E68A3
+        Principal: henkaoua@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug  3 19:22:56 2021  Aug  4 05:22:56 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Aug  3 19:22:58 2021  Aug  4 05:22:56 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
