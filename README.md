@@ -23,7 +23,7 @@ Philosophers | 100 | https://github.com/Joseph-Enkaoua/42/tree/master/philosophe
 minishell | 94 | https://github.com/Joseph-Enkaoua/42/tree/master/minishell
 NetPractice | 100 | Unavailable
 C++ piscine | avg. 92 | https://github.com/Joseph-Enkaoua/42/tree/master/cpp
-cub3D | 100 | https://github.com/Joseph-Enkaoua/42/tree/master/cub3D
+cub3D | 100 | [https://github.com/Joseph-Enkaoua/42/tree/master/cub3D](https://github.com/Joseph-Enkaoua/42/tree/master/Cub3D)
 Exam 04 | 100 | Unavailable
 Inception | 100 | https://github.com/Joseph-Enkaoua/42/tree/master/Inception
 Exam 05 | 100 | Unavailable
