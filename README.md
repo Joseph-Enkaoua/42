@@ -27,4 +27,4 @@ cub3D | 100 | https://github.com/Joseph-Enkaoua/42/tree/master/cub3D
 Exam 04 | 100 | Unavailable
 Inception | 100 | https://github.com/Joseph-Enkaoua/42/tree/master/Inception
 Exam 05 | 100 | Unavailable
-Transcendence| 113 | https://github.com/Joseph-Enkaoua/42/tree/master/Inception
+Transcendence| 113 | https://github.com/Joseph-Enkaoua/transcendence-pub
